@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Decipher
+comment1.params=text
+comment1.target=Decipher(java.lang.String)
+comment2.params=
+comment2.target=int\ getLength()
+comment3.params=whichCharacter
+comment3.target=char\ returnACharacter(int)
+comment4.params=aChar
+comment4.target=int\ returnASCII(char)
+comment5.params=
+comment5.target=void\ decrypt()
+numComments=6
